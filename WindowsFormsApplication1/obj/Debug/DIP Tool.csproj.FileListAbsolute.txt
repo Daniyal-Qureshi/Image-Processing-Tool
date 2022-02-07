@@ -1,0 +1,22 @@
+C:\Users\Daniyal\Documents\Visual Studio 2012\Projects\DIP Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Daniyal\Documents\Visual Studio 2012\Projects\DIP Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Daniyal\Documents\Visual Studio 2012\Projects\DIP Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Daniyal\Documents\Visual Studio 2012\Projects\DIP Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Daniyal\Documents\Visual Studio 2012\Projects\DIP Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Daniyal\Documents\Visual Studio 2012\Projects\DIP Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.box.resources
+C:\Users\Daniyal\Documents\Visual Studio 2012\Projects\DIP Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Daniyal\Documents\Visual Studio 2012\Projects\DIP Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.histogram.resources
+C:\Users\Daniyal\Documents\Visual Studio 2012\Projects\DIP Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Daniyal\Documents\Visual Studio 2012\Projects\DIP Project\WindowsFormsApplication1\obj\Debug\DIP Tool.csproj.GenerateResource.Cache
+C:\Users\Daniyal\Documents\Visual Studio 2012\Projects\DIP Project\WindowsFormsApplication1\obj\Debug\DIP Tool.csprojResolveAssemblyReference.cache
+F:\Projects\DIP Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Projects\DIP Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Projects\DIP Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Projects\DIP Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Projects\DIP Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Projects\DIP Project\WindowsFormsApplication1\obj\Debug\DIP Tool.csprojResolveAssemblyReference.cache
+F:\Projects\DIP Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.box.resources
+F:\Projects\DIP Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Projects\DIP Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.histogram.resources
+F:\Projects\DIP Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Projects\DIP Project\WindowsFormsApplication1\obj\Debug\DIP Tool.csproj.GenerateResource.Cache
